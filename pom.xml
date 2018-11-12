@@ -25,12 +25,6 @@
             <version>${tensorflow_version}</version>
         </dependency>
 
-        <!--<dependency>
-            <groupId>org.tensorflow</groupId>
-            <artifactId>libtensorflow_jni_gpu</artifactId>
-            <version>${tensorflow_version}</version>
-        </dependency>-->
-
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>

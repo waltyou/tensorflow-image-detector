@@ -72,7 +72,7 @@ dockerfile如下：
  
 ### 第三步： 打包项目代码
 
-首先添加以下 gpu 依赖：
+首先在pom.xml文件中添加以下 gpu 依赖：
 
     <dependency>
         <groupId>org.tensorflow</groupId>
